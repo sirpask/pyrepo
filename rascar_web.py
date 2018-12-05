@@ -20,5 +20,5 @@ for sub_heading in soup.find_all('td'):
             Temperatura = sub_heading.text
             break
 
-# prueba
+# prueba joder
 print(Temperatura)
